@@ -88,19 +88,7 @@
 
 </div>
 
-## 🧠 LeetCode
 
-<div align="center">
-
-<a href="https://leetcode.com/u/Noor_Alam08/">
-<img src="https://leetcard.jacoblin.cool/Noor_Alam08?theme=dark&font=Baloo&ext=heatmap" width="65%" alt="LeetCode statistics and activity"/>
-</a>
-
-<br/>
-
-[Visit my LeetCode profile →](https://leetcode.com/u/Noor_Alam08/)
-
-</div>
 
 ## 🏆 Featured Projects
 
